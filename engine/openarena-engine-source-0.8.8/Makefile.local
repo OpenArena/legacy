@@ -1,0 +1,3 @@
+ifeq ($(COMPILE_PLATFORM),mingw32)
+COMPILE_ARCH=x86
+endif
