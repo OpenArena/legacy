@@ -16,8 +16,8 @@ engine, and
 
 Checksums and locations for the original code:
 
-[OA game code](http://files.poulsander.com/~poul19/public_files/oa/dev088/oa-0.8.8.tar.bz2)
-[OA engine](http://files.poulsander.com/~poul19/public_files/oa/dev088/openarena-engine-source-0.8.8.tar.bz2)
+* [OA game code](http://files.poulsander.com/~poul19/public_files/oa/dev088/oa-0.8.8.tar.bz2)
+* [OA engine](http://files.poulsander.com/~poul19/public_files/oa/dev088/openarena-engine-source-0.8.8.tar.bz2)
 
 ```sh
 $ md5sum *.bz2
