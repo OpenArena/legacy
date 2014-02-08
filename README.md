@@ -3,8 +3,14 @@
 Legacy source code releases from [OpenArena](http://openarena.ws).
 The game data is still in OpenArena's SVN repository hosted on the site itself.
 
-See the [engine.git](https://github.com/OpenArena/engine.git) project for
-the new engine.
+This is an archive of the OpenArena 0.8.8 release code.  No new development
+happens here.
+
+The current development of OpenArena code happens in two places
+
+* [engine.git](https://github.com/OpenArena/engine.git) project for the new
+engine, and
+* [oax.svn](http://code.google.com/p/oax/) for the new game code.
 
 ## Checksums ##
 
